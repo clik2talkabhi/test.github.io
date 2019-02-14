@@ -1,0 +1,12 @@
+
+body{
+    backface-visibility: initial;
+    background-image: url("../images/contact-us.jpg");
+    margin-left: 10%;
+    margin-top: 10%;
+
+    opacity: 10;
+}
+.super{
+    opacity: 0.2;
+}
